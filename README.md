@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/breathe-me-in/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Breathe Me In](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/breathe-me-in/) |
+| **Get License** | [Music Rights & Licensing for Breathe Me In](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/breathe-me-in/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `073dc8d1d5bf4e325048f091cdef8294b512137881ac926bc4d42ca15f5787e9` |
 | **Timestamp** | June 10, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
