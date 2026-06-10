@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/breathe-me-in/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Breathe Me In](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/breathe-me-in/) |
+| **Get License** | [Request Licensing for Breathe Me In](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/breathe-me-in/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Pull me closer in the fading light
+> Let the shadows wrap around us tight
+> Taste the midnight hanging on my skin
+> Close your eyes and just breathe me in
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
